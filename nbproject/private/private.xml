@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/Client.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/PauseDialog.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/Jugador.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/AbstractContenedor.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/Pickup.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/Server.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/ClientInitializer.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/ContenedorClient.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/Mundo.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/test/Client.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/Contenedor.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/Agent.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/Enemigo.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/ClientGraphicHandler.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/test/TestFrame.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/Online.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/Sprite.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/ContenedorServer.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/Menu.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/manejador/Juego.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/manejador/Graficos.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/Ventana.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/Controles.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/Creditos.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/interfaz/paneles/GamePanel.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/objetos/MovableSprite.java</file>
+            <file>file:/C:/Users/sebastian/Documents/NetBeansProjects/pacman/src/pacman/online/Config.java</file>
+=======
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/interfaz/paneles/Menu.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/joystick/JoystickEvent.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/joystick/JoystickListener.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/joystick/JoystickObserver.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/interfaz/paneles/Contenedor.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/joystick/Test.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/interfaz/paneles/Controles.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/interfaz/paneles/AbstractContenedor.java</file>
+            <file>file:/home/sebastian/Templates/pacman/src/pacman/objetos/manejador/Audio.java</file>
+>>>>>>> joystick
+        </group>
+    </open-files>
+</project-private>
